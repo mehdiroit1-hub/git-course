@@ -1,4 +1,0 @@
-salam man mahdiam
-fix bug
-fix bug for branch 
-fix bug for bugfix branch model
